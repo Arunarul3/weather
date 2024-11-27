@@ -1,0 +1,97 @@
+.pic2{
+    width: 3%;
+    margin-top: 1%;
+}
+.para{
+    border: 1px solid;
+    width: 40%;
+    height: 4vh;
+    border-radius: 10px;
+    text-align: center;
+   transition: 0.5s;
+}
+.para:hover{
+    transform: scale(1.2);
+    background-color: aquamarine;
+}
+.boox{
+    display: flex;
+    justify-content: space-evenly;
+}
+.p11{
+    font-size: 20px;
+    margin-top: 5%;
+}
+.pic3{
+    width: 2%;
+}
+.pic4{
+    width: 10%;
+    margin-left: 38%;
+}
+.pp1{
+    font-size:  20px;
+    height: 4vh;
+    text-decoration: underline;
+    text-align: center;
+}
+.ppp1{
+    font-size: 30px;
+    margin-left: 50%;
+    margin-top: -8%;
+    width: 12%;
+}
+.pic4{
+    width: 10%;
+    margin-left: 38%;
+}
+.c2{
+    display:flex ;
+    justify-content: space-around;
+  }
+  .p11{
+    font-size: 20px;
+    margin-top: 5%;
+}
+.boxx{
+    background-color: antiquewhite;
+    width: 60%;
+    height: 22vh;
+    border-radius: 6px;
+    margin-left: 20%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.boxx1{
+    background-color: antiquewhite;
+    width: 60%;
+    height: 30vh;
+    border-radius: 6px;
+    margin-left: 20%;
+    
+   
+}
+.c3{
+    background-color: antiquewhite;
+    width: 60%;
+    height: 15vh;
+    border-radius: 6px;
+    margin-left: 20%;
+    
+
+}
+.p22{
+    font-size: 19px;
+    border-bottom: 1px solid;
+    text-align: center;
+}
+.p23{
+    font-size: 20px;
+    margin-left: 3%;
+}
+.map{
+    width: 75%;
+   height: 60vh; 
+   margin-left: 20%;
+}
